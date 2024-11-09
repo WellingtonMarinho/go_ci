@@ -6,6 +6,7 @@ func main() {
 	result := soma(10, 10)
 
 	fmt.Println(result)
+	fmt.Println("End")
 }
 
 func soma(a int, b int) int {
